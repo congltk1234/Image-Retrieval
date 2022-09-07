@@ -1,0 +1,1 @@
+# Folder này chứa dataset bao gồm cả test / train (nếu có)

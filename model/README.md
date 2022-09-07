@@ -1,0 +1,1 @@
+# Folder này chứa model sau khi train, hoặc tải model-pretrain về đây
