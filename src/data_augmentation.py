@@ -39,6 +39,8 @@ def image_aug (path_image, crop_scale = 0.95):
     transformed_image = transformed["image"]
 
     return transformed_image
+
+
 def save_image(root_img_path, des_path, path_image):
     dict_path = {}
     if os.path.exists(os.path.join(root_img_path, des_path)):
